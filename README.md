@@ -7,7 +7,7 @@
 
 어떻게 하면 더 효과적으로 할 수 있을지 고민하고 적용시킵니다.
 
-저의 관심분야는 cloud,infra, MLOps, Data engineering 등 폭넓은 분야에 관심을 두고 공부하고 있습니다.
+저의 관심분야는 Cloud,Infra, MLOps, Data engineering 등 폭넓은 분야에 관심을 두고 공부하고 있습니다.
 
 부족한 점을 배우고 극복하여 지속적으로 성장한다는 가치관을 가지고있습니다.
 
