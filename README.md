@@ -48,6 +48,7 @@
 - "메트릭과 이벤트 기반 쿠버네티스 모니터링에 관한 연구" 1저자로 논문 발표
 - 2023 한국정보처리학회 추계학술대회 논문집 게재
 
+202403~202407 연합동아리 "CLOUD CLUB" 5기 운영진
 
 <!--ddd
 **chaeyeon8202/chaeyeon8202** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
