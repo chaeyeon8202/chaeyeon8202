@@ -1,5 +1,5 @@
 ## Hi Welcome, i'm chaeyeon 👋
-##"어제보다 더 발전해있는 사람"
+"어제보다 더 발전해있는 사람"
 안녕하세요 저는 Data Science를 전공으로 4학년에 재학 중인 박채연이라고 합니다.
 저는 AI,cloud, communication역량을 활용하여 지속적으로 새로운 가치를 창출하는 것과 글을 읽는 것을 좋아하며,
 어떻게 하면 더 효과적으로 할 수 있을지 고민하고 적용시킵니다.
@@ -9,7 +9,7 @@
 감사합니다.
 
 Experience overview
-<!--
+<!--ddd
 **chaeyeon8202/chaeyeon8202** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
